@@ -27,7 +27,7 @@ The system calculates real-time stock and assigns a status:
 * 🟡 **REORDER NOW (< 15):** Flags items nearing depletion.
 * 🟢 **HEALTHY (> 15):** Stock levels are sufficient.
 
-## 🚀 How to Run
+##  How to Run
 1.  Install dependencies: `pip install -r requirements.txt`
 2.  Set up the PostgreSQL database using `schema.sql`.
 3.  Run the script: `python main.py`  <-- CHANGED THIS
