@@ -3,7 +3,7 @@
 **An end-to-end data solution to automate inventory tracking, improve data integrity, and visualize reorder points.**
 
 ![Dashboard Preview](dashboard_preview.png)
-*(Screenshot of the Power BI Report flagging critical stock levels)*
+
 
 ##  Project Overview
 Manual inventory tracking is prone to human error. I built this tool to:
